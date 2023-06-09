@@ -4,9 +4,10 @@
 
 ## What is this?
 
-MagicLog is a logging, analytics and error tracking library built for NextJS. Here's a few things that makes it different from other logging tools.
+MagicLog is a logging, analytics and error tracking library built for NextJS. 
 
-- Get context
-  - Logs are not just console. You get complex information, like the timestamp or the session it is from.
-- Integrations
-  - MagicLog integrates with different other providers.
+It's goal is to be developer friendly, but also to integrate with other services (like databases or other analytics tools).
+
+## Is this open-source
+
+Yep, but it's not done yet.  
